@@ -1,0 +1,6 @@
+{
+    "support_folder": "/mnt/hddarchive.nfs/EUDR_dir/support_dir",
+    "work_dir": "/mnt/hddarchive.nfs/EUDR_dir/work_dir",
+    "gpkg_path" :"/mnt/hddarchive.nfs/EUDR_dir/support_dir/gftw_tileextents.gpkg",
+    "jrc_forest_site": "https://ies-ows.jrc.ec.europa.eu/iforce/gfc2020/download.py?version=v2&type=tile&lat={:s}&lon={:s}"
+}
